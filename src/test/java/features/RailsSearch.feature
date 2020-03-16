@@ -1,4 +1,4 @@
-Feature: Verifying rails search repository page
+Feature: Verifying rails search and navigation in repository page
 
   Scenario: Verify search repository
     Given  I am on rails page
